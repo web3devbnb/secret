@@ -1,0 +1,96 @@
+Uri: https://cdn.jsdelivr.net/gh/ethereumjs/browser-builds/dist/ethereumjs-tx/ethereumjs-tx-1.3.3.min.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\gh\ethereumjs\browser-builds\dist\ethereumjs-tx\ethereumjs-tx-1.3.3.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.5/web3.min.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\ajax\libs\web3\1.7.5\web3.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7gYHE41ni1AdIRggexSg.woff2
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\s\manrope\v14\xn7gYHE41ni1AdIRggexSg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7gYHE41ni1AdIRggixSuXd.woff2
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\s\manrope\v14\xn7gYHE41ni1AdIRggixSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7gYHE41ni1AdIRggmxSuXd.woff2
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\s\manrope\v14\xn7gYHE41ni1AdIRggmxSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7gYHE41ni1AdIRggOxSuXd.woff2
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\s\manrope\v14\xn7gYHE41ni1AdIRggOxSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7gYHE41ni1AdIRggqxSuXd.woff2
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\s\manrope\v14\xn7gYHE41ni1AdIRggqxSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7gYHE41ni1AdIRggSxSuXd.woff2
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\s\manrope\v14\xn7gYHE41ni1AdIRggSxSuXd.woff2
+Content Type: font/woff2
+
+Uri: https://mcpepe.xyz/
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\index.htm
+Content Type: text/html
+
+Uri: https://mcpepe.xyz/src/fonts.css
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\fonts.css
+Content Type: text/css
+
+Uri: https://mcpepe.xyz/src/GRIFTERBold.woff2
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\GRIFTERBold.woff2
+Content Type: font/woff2
+
+Uri: https://mcpepe.xyz/src/jquery.min.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://mcpepe.xyz/src/logo.png
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\logo.png
+Content Type: image/png
+
+Uri: https://mcpepe.xyz/src/media.css
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\media.css
+Content Type: text/css
+
+Uri: https://mcpepe.xyz/src/p5.css
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\p5.css
+Content Type: text/css
+
+Uri: https://mcpepe.xyz/src/scripts/web3-provider.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\scripts\web3-provider.js
+Content Type: application/x-javascript
+
+Uri: https://mcpepe.xyz/src/scripts/web3-provider/ethereum-tx.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\scripts\web3-provider\ethereum-tx.js
+Content Type: application/x-javascript
+
+Uri: https://mcpepe.xyz/src/scripts/web3-provider/ethers.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\scripts\web3-provider\ethers.js
+Content Type: application/x-javascript
+
+Uri: https://mcpepe.xyz/src/scripts/web3-provider/web3-connect.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\scripts\web3-provider\web3-connect.js
+Content Type: application/x-javascript
+
+Uri: https://mcpepe.xyz/src/scripts/web3-provider/web3-module.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\scripts\web3-provider\web3-module.js
+Content Type: application/x-javascript
+
+Uri: https://mcpepe.xyz/src/style.css
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\src\style.css
+Content Type: text/css
+
+Uri: https://unpkg.com/@walletconnect/web3-provider@1.7.5/dist/umd/index.min.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\@walletconnect\web3-provider@1.7.5\dist\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/axios@1.0.0/dist/axios.min.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\axios@1.0.0\dist\axios.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/moralis-v1@1.13.0/dist/moralis.js
+File Name: C:\Downloaded Web Sites\mcpepe.xyz\moralis-v1@1.13.0\dist\moralis.js
+Content Type: application/javascript
+
